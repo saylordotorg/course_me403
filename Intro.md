@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME403: Student Design Project"
+course_description: "A detailed study of the steps in the student engineering design process. Topics include project management formalisms, project economics, intellectual property and ethical issues, design evaluation and communication, quality management and cost reduction, and case studies."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ME403: Student Design Project"
 ---------------------------------------------------
 
