@@ -8,6 +8,16 @@ previous: ../../../
 Course Syllabus for "ME403: Student Design Project"
 ---------------------------------------------------
 
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/
+hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_me403) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/
+licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
+
 This course will ask you to apply the knowledge you have acquired over
 the course of the entire mechanical engineering curriculum.  It draws
 upon what you have learned in your courses in mechanics, CAD, materials
