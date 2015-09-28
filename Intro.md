@@ -169,3 +169,4 @@ properly complete your project successfully.
 - [Unit 2](https://legacy.saylor.org/me403/Unit02/)
 - [Unit 3](https://legacy.saylor.org/me403/Unit03/)
 - [Unit 4](https://legacy.saylor.org/me403/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME403/ME403-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME403/ME403-FinalExam-Answers.html)
