@@ -109,7 +109,7 @@ Upon completion of this unit, the student will be able to:
 **3.1.1 Problem Identification** <span id="3.1.1"></span> 
 -   **Activity: The Saylor Foundation’s “Project Selection”**
     Link: The Saylor Foundation’s [“Project
-    Selection”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-1.FINAL_.pdf) (PDF)  
+    Selection”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-1.FINAL_.pdf) (PDF)  
       
      Instructions: Read the activity and move forward with your choice
     of a suitable project.  This activity should take approximately 2
@@ -192,7 +192,7 @@ Upon completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Determining Design
     Specifications”**
     Link: The Saylor Foundation’s [“Determining Design
-    Specifications”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-2.FINAL_.pdf)
+    Specifications”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-2.FINAL_.pdf)
     (PDF)  
       
      Instructions: Read the assessment and response guidelines and then
@@ -200,7 +200,7 @@ Upon completion of this unit, the student will be able to:
     project.  This assessment should take approximately 10 hours to
     complete. When you are finished, check your work against The Saylor
     Foundation’s [“Determining Design Specifications - Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-GTR-Assignment-2.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-GTR-Assignment-2.FINAL_.pdf)
     (PDF).  
       
      Terms of Use: Please respect the copyright and terms of use
@@ -229,7 +229,7 @@ Upon completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Statement of Work”**
     Link: The Saylor Foundation’s [“Statement of
-    Work”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-3.FINAL_.pdf)
+    Work”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-3.FINAL_.pdf)
     (PDF)  
         
      Instructions: Read the assessment and response guidelines and then
@@ -237,7 +237,7 @@ Upon completion of this unit, the student will be able to:
     project scope and breadth. This assessment should take approximately
     5 hours to complete. When you are finished, check your work against
     The Saylor Foundation’s [“Statement of Work – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-GTR-Assignment-3.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-GTR-Assignment-3.FINAL_.pdf)
     (PDF).  
         
      Terms of Use: Please respect the copyright and terms of use
@@ -277,7 +277,7 @@ Upon completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Design Brainstorming”**
     Link: The Saylor Foundation’s [“Design
-    Brainstorming”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-4.FINAL_.pdf)
+    Brainstorming”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-4.FINAL_.pdf)
     (PDF)  
       
      Instructions: Read the assessment and response guidelines and begin
@@ -285,7 +285,7 @@ Upon completion of this unit, the student will be able to:
     of work.  This assessment should take approximately 10 hours to
     complete.  When you are finished, check your work against The Saylor
     Foundation’s [“Design Brainstorming – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-GTR-Assignment-4.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-GTR-Assignment-4.FINAL_.pdf)
     (PDF).  
       
      Terms of Use: Please respect the copyright and terms of use
@@ -349,7 +349,7 @@ Upon completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Design Screening and
     Midstream Report”**
     Link: The Saylor Foundation’s [“Design Screening and Midstream
-    Report”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-5.FINAL_.pdf)
+    Report”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-5.FINAL_.pdf)
     (PDF)  
       
      Instructions: Read the assessment and response guidelines and then
@@ -361,7 +361,7 @@ Upon completion of this unit, the student will be able to:
     as 150 hours to its completion. When you are finished, you can check
     your work against The Saylor Foundation’s [“Design Screening and
     Midstream Report – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-GTR-Assignment-5.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-GTR-Assignment-5.FINAL_.pdf)
     (PDF).  
       
      Terms of Use: Please respect the copyright and terms of use
@@ -437,7 +437,7 @@ Upon completion of this unit, the student will be able to:
 -   **Assessment: The Saylor Foundation’s “Project Validation and Final
     Report”**
     Link: The Saylor Foundation’s [“Project Validation and Final
-    Report”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-Assignment-6.FINAL_.pdf)
+    Report”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-Assignment-6.FINAL_.pdf)
     (PDF)  
       
      Instructions: Read the assessment and response guidelines and then
@@ -449,7 +449,7 @@ Upon completion of this unit, the student will be able to:
     as 150 hours to its completion.  When you are finished, check your
     work against The Saylor Foundation’s [“Project Validation and Final
     Report – Guide to
-    Responding”](http://www.saylor.org/site/wp-content/uploads/2012/09/ME403-GTR-Assignment-6.FINAL_.pdf)
+    Responding”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/ME403-GTR-Assignment-6.FINAL_.pdf)
     (PDF).  
       
      Terms of Use: Please respect the copyright and terms of use
